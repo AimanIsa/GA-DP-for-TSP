@@ -1,4 +1,4 @@
-# GA-DP for TSP problem
+# GA + DP to solve Travelling Salesman Problem 
 
 Objective: 
 Find the shortest path 
