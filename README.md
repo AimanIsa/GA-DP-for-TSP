@@ -47,7 +47,7 @@ In the Dynamic Programming (DP) method, issues are divided into smaller subprobl
 
 ## Sample Problem
 
-This is just example of TSP problem 
+This is one of the example of TSP problem.
 Let's say we have 4 cities and the path value is given and can be reffered from the figure below:-
 
 ![tsp problem](https://user-images.githubusercontent.com/94151132/216835744-7aa47c4d-4c75-4bc4-ab95-7697e626b1b1.png)
