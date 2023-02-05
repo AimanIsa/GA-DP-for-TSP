@@ -66,3 +66,6 @@ Solve this problem using basic and modified algorithm
 > 1. Basic
 > 2. Modified
 
+### Expected outcome for optimal solution 
+
+03120 and 02130 with Fitness value is 9. Due to, both paths are the lowest or the shortest path compared the other path. 
