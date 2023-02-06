@@ -47,28 +47,5 @@ In the Dynamic Programming (DP) method, issues are divided into smaller subprobl
  >> 10.    Until (Criteria Stopping);
 >11.  End
 
+## How to use this code
 
-## Sample Problem
-
-This is one of the example of TSP problem.
-Let's say we have 4 cities and the path value is given and can be reffered from the figure below:-
-
-![tsp problem](https://user-images.githubusercontent.com/94151132/216835744-7aa47c4d-4c75-4bc4-ab95-7697e626b1b1.png)
-
-Solve this problem using basic and modified algorithm 
-
-### Strategy 
-
-1. Change into matrix form 
-
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/94151132/216835946-73777ecf-10ab-4f68-b4b4-0f570fcf92e9.png)
-
-2. set the matrix
-3. follow the basic and modified algorithm 
-4. The code as follow 
-> 1. [Basic](https://github.com/AimanIsa/GA-DP-for-TSP/blob/main/Basic%20Genetic%20Algorithm.cpp)
-> 2. [Modified](https://github.com/AimanIsa/GA-DP-for-TSP/blob/main/Modified%20GA%20%2B%20DP.cpp)
-
-### Expected outcome for optimal solution 
-
-03120 and 02130 with Fitness value is 9. Due to, both paths are the lowest or the shortest path compared the other path. 
