@@ -63,7 +63,7 @@ Solve this problem using basic and modified algorithm
 2. set the matrix
 3. follow the basic and modified algorithm 
 4. The code as follow 
-> 1. Basic (https://github.com/AimanIsa/GA-DP-for-TSP/blob/main/Basic%20Genetic%20Algorithm.cpp)
+> 1. [Basic](https://github.com/AimanIsa/GA-DP-for-TSP/blob/main/Basic%20Genetic%20Algorithm.cpp)
 > 2. Modified
 
 ### Expected outcome for optimal solution 
