@@ -28,6 +28,9 @@ An optimization technique known as a genetic algorithm (GA) draws its inspiratio
 
 
 ## Modified  - GA + Dynamic Programming (DP)
+
+The Traveling Salesman Problem can be resolved by combining Genetic Algorithms (GA) with Dynamic Programming (DP) (TSP). A collection of potential TSP solutions may be created using GA, and these can then be optimised using DP. Because GA can offer a decent initial estimate and DP can refine it, using GA and DP together can produce high-quality solutions for TSP in a reasonable period of time.
+
 In the Dynamic Programming (DP) method, issues are divided into smaller subproblems, each of which is then solved in turn to produce a solution to the larger problem.
 
 ### Step by step for DP
