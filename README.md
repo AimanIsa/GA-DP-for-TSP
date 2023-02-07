@@ -48,4 +48,15 @@ In the Dynamic Programming (DP) method, issues are divided into smaller subprobl
 >11.  End
 
 ## How to use this code
+Basically the code is not working, however I can explain what are the functions did. 
+
+1. struct city and Salesman : To create an object.
+2. double distance() : Calculate the distance between two cities using formula sqrt ( x power of 2 + y power of 2 ) 
+3. CalculateFitness() : to calculate the fitness and store in the object man 
+4. initialCities() and initialPopulation() : to initialize initial city and population 
+5. selectParent()	: Randomly select parent from Salesman
+6. crossover(Salesman A, Salesman B) : The process for creating the child involves copying a piece of the route (which represents the sequence of visiting cities) from A to the child and then filling in the remaining cities from B while making sure there are no duplicates in the child's path.
+7. Mutation(Salesman &man) : provides a mutation operation, a genetic operator that switches two cities to modify the solution at random.
+8. Evaluate() : create a new population
+9. Optinmal() : to calculate the optimal solution and display it. 
 
