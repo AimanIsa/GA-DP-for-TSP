@@ -51,7 +51,7 @@ In the Dynamic Programming (DP) method, issues are divided into smaller subprobl
 Basically the code is not working, however I can explain what are the functions did. 
 
 1. struct city and Salesman : To create an object.
-2. double distance() : Calculate the distance between two cities using formula sqrt ( x power of 2 + y power of 2 ) 
+2. double distance() : Calculate the distance between two cities using formula sqrt ( (x2 ^ 2 - x1 ^ 2) + (y2 ^ 2 - y1 ^ 2) ) 
 3. CalculateFitness() : to calculate the fitness and store in the object man 
 4. initialCities() and initialPopulation() : to initialize initial city and population 
 5. selectParent()	: Randomly select parent from Salesman
